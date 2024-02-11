@@ -36,7 +36,7 @@ The Linear Regression model performed well, with an R^2 score of 0.889, indicati
 ## How to Run the Project 🏃‍♀️
 
 1. Clone this repository.
-2. Install the necessary Python packages (listed in `requirements.txt`).
+2. Install the necessary Python packages.
 3. Run the Jupyter notebook.
 
 ## Acknowledgements 🙏
